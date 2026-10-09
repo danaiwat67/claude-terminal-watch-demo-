@@ -1,0 +1,6 @@
+{
+  "name": "claude-terminal-watch",
+  "owner": { "name": "danaiwat67" },
+  "description": "A Claude Code mod that shows the shell commands Claude and its subagents run in a live terminal-style pane",
+  "plugins": [{ "name": "terminal-watch", "source": "./" }]
+}

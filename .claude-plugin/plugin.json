@@ -1,0 +1,8 @@
+{
+  "name": "terminal-watch",
+  "version": "0.2.0",
+  "author": { "name": "danaiwat67", "url": "https://github.com/danaiwat67" },
+  "repository": "https://github.com/danaiwat67/claude-terminal-watch",
+  "description": "Live pane showing shell commands Claude runs, in real time",
+  "types": "./types/index.d.ts"
+}
